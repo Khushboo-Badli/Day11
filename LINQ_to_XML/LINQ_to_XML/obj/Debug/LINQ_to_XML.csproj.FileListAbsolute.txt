@@ -1,0 +1,7 @@
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\bin\Debug\LINQ_to_XML.exe.config
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\bin\Debug\LINQ_to_XML.exe
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\bin\Debug\LINQ_to_XML.pdb
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\obj\Debug\LINQ_to_XML.csproj.AssemblyReference.cache
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\obj\Debug\LINQ_to_XML.csproj.CoreCompileInputs.cache
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\obj\Debug\LINQ_to_XML.exe
+C:\Users\Khushboo Badil\source\repos\LINQ_to_XML\LINQ_to_XML\obj\Debug\LINQ_to_XML.pdb
